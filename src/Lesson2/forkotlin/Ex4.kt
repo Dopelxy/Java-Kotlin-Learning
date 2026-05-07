@@ -8,7 +8,7 @@ fun main() {
         println("Enter number")
         number = readln().toInt()
         println("You enter number: $number")
-            } while (number >= 0)
+    } while (number >= 0)
 }
 
 
