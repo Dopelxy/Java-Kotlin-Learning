@@ -10,8 +10,8 @@ public class Ex8 {
         int a = 0;
         int b = 1;
         int next = 0;
-        for ( int i =2; i <=N; i++){
-            next = a+b;
+        for ( int i = 2; i <= N; i++){
+            next = a + b;
             a = b;
             b = next;
         }

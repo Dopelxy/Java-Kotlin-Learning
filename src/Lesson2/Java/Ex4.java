@@ -10,6 +10,6 @@ public class Ex4 {
         number = scanner.nextInt();
 
         System.out.println("You entered: " + number);}
-        while(number >=0);
+        while(number >= 0);
     }
 }

@@ -9,11 +9,11 @@ public class Ex5 {
         double a = scanner.nextDouble();
         System.out.println("Enter b");
         double b = scanner.nextDouble();
-        double P=2*(a+b);
+        double P= 2 * (a + b);
 
-        double S = a*b;
+        double S = a * b;
 
-        System.out.println("P:"+P);
-        System.out.println("S:"+S);
+        System.out.println("P:" + P);
+        System.out.println("S:" + S);
     }
 }
